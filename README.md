@@ -1,36 +1,70 @@
-Project Name = MUN Club Website
+Hi Guys 👋,
 
-Tech-stack used (MERN stack) = MondoDB,Express.js,React.js,Node.js
+I am excited to share my 4️⃣ repo on Git Hub.
+ 
+MUN Club Website 🌐
 
-Key Features
+Welcome to the GitHub repository for the College Model United Nations (MUN) Club website! 
 
-1. Login
-2. Google form for Registration
-3. Home page
-4. About-us page
-5. Events page
-6. Team page
-7. Gallery page
+Developed using React, this website serves as a platform for students to explore information about our MUN club, its activities, events, team members, and more.
 
-Frontend
-(Made form React components included HTML for body,Tailwind for styling and JS for functionality and Auth0 for authentication)
+Key Features 🚀
 
-Step 1
-Created a Layout folder and added components like header,hero and footer
+Homepage: Provides an overview of the MUN club, its mission, and upcoming events.
 
-Step 2
-In Header component added titles and login
-In Hero component added logo,navbar
-In Footer component added title and social media link
+About Page: Offers detailed information about the club's history, objectives, and achievements, providing visitors with insights into our organization's journey and values.
 
-Step 3
-For Login used Auth0 which is a free microservice for login,sign and authorization.
+Gallery Page: Showcases memorable moments captured during MUN conferences, club events, and activities.
 
-Step 4
-Add active google form for registration
+Events Page: Keeps users informed about upcoming MUN conferences, workshops, seminars, and other relevant events organized by the club.
 
-Step 5
-Created pages for home,about,events,team and gallery also added necessary info and photos of the club
+Team Page: Introduces the dedicated individuals who lead and manage various aspects of the MUN club, showing connectivity within the club community.
 
-Backend
-(Made from Express.JS ,Node.JS ,MongoDB and cloudinary fo radding images in the gallery page)
+Login/Logout: Facilitates secure access for club members, allowing them to log in to access exclusive content, resources, or features.
+
+If you'd like 👍 to contribute to the MUN website, please fork the repository and submit a pull request with your changes.
+
+Check out my live Website ⬇️
+
+Website link = https://scintillating-monstera-d92348.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
